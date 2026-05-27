@@ -3,17 +3,11 @@ Software Engineer & Developer
 
 I build smart predictive models and high-performance backend systems. I am obsessed with building things fast and efficiently, leveraging modern AI toolchains to supercharge my workflow and ship clean.
 
-┌── Data Science & ML ──────────┐
-│ 🐍 Python  🤖 Scikit-Learn   │
-└───────────────────────────────┘
-┌── Backend & Databases ────────┐
-│ 🟢 Node.js 🍃 MongoDB Atlas   │
-│ ⚙️ Motor    🔌 REST APIs       │
-└───────────────────────────────┘
-┌── Workflow Ecosystem ─────────┐
-│ 🤖 AI-Code Engineering        │
-│ 💻 VS Code  🐙 Git & GitHub   │
-└───────────────────────────────┘
+Data Science & ML: Python • Scikit-Learn 
+
+Backend & DBs: Node.js (npm) • MongoDB Atlas • Motor (Async Driver) • REST APIs
+
+Workflow Integration: Advanced AI-Assisted Code Engineering • Git • VS Code
 
 
 🔬 Featured Production

@@ -1,7 +1,7 @@
 <!-- ===== ANIMATED HEADER ===== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:36BCF7&height=220&section=header&text=Mulham%20Sarmini&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Junior%20Software%20Engineer%20%C2%B7%20Full-Stack%20%26%20Machine%20Learning&descSize=18&descAlignY=52" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:36BCF7&height=220&section=header&text=Mulham%20Sarmini&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Junior%20Software%20Engineer%20%C2%B7%20Full-Stack%20and%20Machine%20Learning&descSize=18&descAlignY=52" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://www.mulhamsarmini.me/">
@@ -42,7 +42,7 @@ const mulham = {
 - 📫 Reach me at **mulham.sy.1995@gmail.com** or via my [portfolio](https://www.mulhamsarmini.me/)
 
 <!-- ===== TECH STACK ===== -->
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sYKG1t4/giphy.gif" width="28"> Tech Stack
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech Stack
 
 <div align="center">
 
@@ -145,22 +145,12 @@ AI-powered health journal using NER to turn free-text reflections into structure
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mulham95&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=36BCF7&icon_color=36BCF7" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mulham95&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=36BCF7" alt="Top Languages" height="165"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=Mulham95&theme=tokyonight&hide_border=true&background=00000000&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak"/>
 
 <br/>
 
 <!-- Animated activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mulham95&theme=tokyo-night&hide_border=true&bg_color=00000000&color=36BCF7&line=36BCF7&point=ffffff&area=true" alt="Activity Graph" width="95%"/>
-
-<br/>
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Mulham95&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
 
 </div>
 

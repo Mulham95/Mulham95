@@ -145,7 +145,7 @@ AI-powered health journal using NER to turn free-text reflections into structure
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Mulham95&theme=tokyonight&hide_border=true&background=00000000&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Mulham95&theme=tokyonight&hide_border=true&background=00000000&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&card_width=480" alt="GitHub Streak"/>
 
 <br/>
 

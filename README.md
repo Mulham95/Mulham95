@@ -145,10 +145,6 @@ AI-powered health journal using NER to turn free-text reflections into structure
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Mulham95&theme=tokyonight&hide_border=true&background=00000000&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&card_width=480" alt="GitHub Streak"/>
-
-<br/>
-
 <!-- Animated activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mulham95&theme=tokyo-night&hide_border=true&bg_color=00000000&color=36BCF7&line=36BCF7&point=ffffff&area=true" alt="Activity Graph" width="95%"/>
 
